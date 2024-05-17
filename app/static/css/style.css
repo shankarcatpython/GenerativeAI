@@ -1,0 +1,31 @@
+
+.resized-image {
+    width: auto; /* Set desired width */
+    height: 200px; /* Maintain aspect ratio */
+}
+
+.resized-animation {
+    width:  50px; /* Set desired width */
+    height: 50px; /* Maintain aspect ratio */
+    display: block;
+    margin: 0 auto; /* This will center the image horizontally */
+}
+
+.btn-submit {
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 25px;
+    transition: background-color 0.3s ease;
+  }
+
+.btn-submit:hover {
+    background-color: #0056b3;
+  }
+
+.custom-textarea {
+    width: 100%; /* Adjust the width as needed */
+    height: 200px; /* Adjust the height as needed */
+}
