@@ -4,3 +4,4 @@ __pycache__/
 agents-flow/
 vectorization.py
 agents.py
+*db
